@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/northernlights_display/BuildConfig.java
+ com.example.northernlights_display.BuildConfig
